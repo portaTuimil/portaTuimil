@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Pablo:</h1>
+<h1>Hi , I'm Pablo:</h1>
 <h3 align="center">A spanish student learning programming:</h3>
 
 
