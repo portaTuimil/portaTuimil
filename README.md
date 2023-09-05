@@ -2,9 +2,9 @@
 <h3>I'm a spanish student who programs in his free time.</h3>
 
 
-<h3 align="left">I'm familiar whith:</h3>
+<h3 align="left">I'm familiar with:</h3>
 
-<h3>Frontend:</h3>
+<h4>Frontend:</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
