@@ -1,5 +1,4 @@
 <h1 align='center'>Hi , I'm Pablo:</h1>
-<h3 align='center' >A spanish student that codes in his free time!</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=portaTuimil&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="portatuimil" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portaTuimil&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="portatuimil" /></p>
